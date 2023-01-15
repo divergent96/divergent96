@@ -1,7 +1,6 @@
-Hi, I’m Susheel (@divergent96). I did my Bachelors in Mechanical Engineering and moved to a Business ops./Data analyst role post graduation.
+Hi, I’m Susheel (@divergent96). I have been working n Analytics since last 3.5 years, and I expect to graduate with Masters in Big Data analytics in 2023.
 
-After using lot of data and design methodologies to construct an offroad vehicle, I got interested in analysis and representation of data.
-I am currently focused on learning Data engineering and using advanced models to understand data and derive insights. 
+I am currently focused on learning Data engineering and using Machine learning to discover and answer business questions. 
 
 Feel free to ping me on discord (Susheel#8777) for anything.
 
